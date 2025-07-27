@@ -1,14 +1,9 @@
 <!-- HEADER BANNER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sithum%20Duleka%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I`m%20Sithum%20Duleka%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <!-- INTRO -->
-<h3 align="center">🚀 Software Engineering Undergraduate | AI & Data Science Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">🚀 Software Engineering Undergraduate | Full-Stack Developer | AI & Data Science Enthusiast </h3>
 
-<p align="center">
-  <a href="mailto:sithum@example.com"><img src="https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat&logo=twitter" alt="Twitter"/></a>
-</p>
 
 ---
 
@@ -51,9 +46,9 @@
 
 ### 🌐 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-  <a href="mailto:sithum@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=twitter" height="50" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+  <a href="mailto:sithumdulekakalhara@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=instergram" height="50" /></a>
 </p>
 
 <!-- FOOTER BANNER -->
